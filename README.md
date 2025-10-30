@@ -1,1 +1,1 @@
-# Queries-with-Fixed-Length-DATA-STRUCTURE-MEDIUM
+# Queries-with-Fixed-Length-DATA-STRUCTURE-MEDIUM.This solution finds for each query length d the minimum value among all maximum elements in contiguous subarrays of length d by using a sliding window approach with a deque to efficiently track maximum elements in O(n) time per query, avoiding the naive O(n×d) approach.
